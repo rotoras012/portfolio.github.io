@@ -1,0 +1,199 @@
+.ll:hover {
+	-webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+
+}
+.ll {
+	max-width: 200px;
+	padding: 10px;
+	position: fixed;
+}
+
+body {
+	background-image: url("../photos/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+		
+	background-attachment: fixed;
+	
+}
+
+.list {
+	
+	list-style-type: none;
+	font-size: 2em;
+	margin-left: 170px;
+
+
+
+}
+
+.list > li {
+	
+    color: #e6e6e6;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+	float: left;
+	margin-top: 50px;
+
+
+}
+.list > li >a:hover {
+	color: white;
+
+}
+.list > li a {
+
+	text-decoration: none;
+	color: #e6e6e6;
+}
+
+
+.rank {
+	
+	border: solid none;
+
+
+
+	font-size: 1.5em;
+	float: right;
+	margin-right: 100px;
+	
+    
+    background-color:   #27282d	;
+    color: #fcfcfc;
+    
+    padding: 10px 10px;
+    font-family: Roboto-Condensed,"Helvetica Neue",Helvetica,Arial,sans-serif;
+   	font-weight: 600;
+
+
+
+
+}
+
+
+.rank > ol {
+	padding: 5px 10px;
+    list-style: none;
+    background-color: rgba(52,52,55,.4);
+    font-size: .8em;
+
+
+
+}
+
+.rank > ol > li:nth-child(even) {
+	background-color: #595959;
+
+
+
+}
+.rank > ol > li {
+	padding: 6px;
+
+
+
+}
+
+
+.rankk {
+	float: right;	
+	margin-left: 150px;
+}
+.rank > ol > li:hover {
+	color: black;
+
+
+}
+
+article > a > img {
+
+	height: 100%;
+	width: 500px;
+	
+
+	
+}
+
+.roi {
+	
+	color: white;
+	text-align:	justify;
+	margin-left: 250px;
+
+
+}
+
+.roi img {
+	border: 10px solid black;
+
+}
+
+.x,.c{
+	
+	
+	color: white;
+	text-align: justify;
+
+
+
+}
+.z {
+	
+	width: 450px;
+	width: 100%;
+    height: auto;	
+    
+}
+
+	
+.a1 { 
+	margin-left: 300px;
+	border: 5px solid #595959;
+	padding: 20px;
+
+
+ }
+.how {
+	text-decoration: none;
+}
+
+.c{
+	font-weight: bold;
+}
+
+.zz {
+	font-weight: bold;
+	font-size: 2em;
+
+}
+.t {
+	border: 10px solid black;
+	margin-left: 300px;
+		
+
+
+
+
+
+}
+.t1 {
+	
+	padding: 10px;
+	height: 100%;
+	width: 200px;	
+
+
+
+}
+.Info {
+
+	color: white;
+
+}
+.image {
+	border-radius: 50px;
+}
